@@ -1,2 +1,2 @@
 # web-dev-course
-Web development course projects and resources
+web development course projects and resources
